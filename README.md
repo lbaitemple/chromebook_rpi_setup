@@ -1,4 +1,4 @@
-# Setup MQTT topic at https://www.maqiatto.com/{:target="_blank"}
+# Setup MQTT topic at [go](https://www.maqiatto.com/){:target="_blank"}
 
 In Broker configuration page, 
 
@@ -28,8 +28,8 @@ modify with your MQTT credentials for m_user and m_pass
 <img src="mqtt/mqtt_sign.png" width="348">
 
 ```
-cp raspberry_IP/newtest2.sh ~/test2.sh
-cp raspberry_IP/stats.py ~/stats.py
+cp chromebook_rpi_setup/newtest2.sh ~/test2.sh
+cp chromebook_rpi_setup/stats.py ~/stats.py
 chmod +x ~/test2.sh
 ```
 
