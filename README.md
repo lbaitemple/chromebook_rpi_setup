@@ -40,7 +40,7 @@ sudo systemctl enable systemd-networkd-wait-online.service
 ```
 Now, you will need to create a startup service
 ```
-sudo cp raspberry_IP/ipaddress.service /lib/systemd/system
+sudo cp chromebook_rpi_setup/ipaddress.service /lib/systemd/system
 sudo systemctl daemon-reload
 sudo systemctl enable  ipaddress
 sudo systemctl start  ipaddress
