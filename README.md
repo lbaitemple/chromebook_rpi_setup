@@ -1,7 +1,13 @@
 # setup MQTT topic at https://www.maqiatto.com/
 
-In Broker configuration page, please add a topic called raspberrypi
-![Alt text](mqtt/setup_topic.png=150x150)
+In Broker configuration page, 
+
+<img src="mqtt/setup_topic.png" width="348">
+
+You add a topic called raspberrypi and click on "add topic".
+
+
+
 
 # raspberry_IP
 #This code will upload raspberry private ip address to iot.eclipse.org using mqtt protocol
