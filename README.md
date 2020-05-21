@@ -35,7 +35,6 @@ chmod +x ~/test2.sh
 
 You will need to ensure a startup service to enable network
 ```
-sudo systemctl is-enabled systemd-networkd-wait-online.service
 sudo systemctl enable systemd-networkd-wait-online.service
 ```
 Now, you will need to create a startup service
