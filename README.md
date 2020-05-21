@@ -1,4 +1,4 @@
-# Setup MQTT topic at [go](https://www.maqiatto.com/){:target="_blank"}
+Setup MQTT topic at [maqiatto](https://www.maqiatto.com/){:target="_blank" rel="noopener"}
 
 In Broker configuration page, 
 
