@@ -5,7 +5,7 @@
 ##############
 m_i2c="3c"
 m_server="maqiatto.com"
-m_port=8883
+m_port=1883
 m_user="lbai@temple.edu"
 m_pass="fast300a"
 m_topic="lbai@temple.edu/raspberrypi"
