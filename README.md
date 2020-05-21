@@ -16,6 +16,10 @@ Now, we can go to the raspberry pi remote login terminal and enter the following
 sudo apt-get install python-pip python-pil  i2c-tools git mosquitto-clients -y
 git clone https://github.com/lbaitemple/raspberry_IP/
 sudo pip install Adafruit_SSD1306 RPi.GPIO
+```
+open the newtest2.sh file and modify
+
+```
 cp raspberry_IP/newtest2.sh ~/test2.sh
 cp raspberry_IP/stats.py ~/stats.py
 chmod +x ~/test2.sh
