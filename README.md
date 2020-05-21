@@ -9,7 +9,8 @@ You add a topic called raspberrypi and click on "add topic". Now, you should see
 <img src="mqtt/topic_added.png" width="348">
 
 
-# raspberry_IP
+# Raspberry Pi setup
+
 Now, we can go to the raspberry pi remote login terminal and enter the following commands
 
 ```
