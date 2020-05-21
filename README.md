@@ -1,4 +1,4 @@
-# setup MQTT topic at https://www.maqiatto.com/
+# Setup MQTT topic at https://www.maqiatto.com/
 
 In Broker configuration page, 
 
@@ -21,9 +21,11 @@ open the newtest2.sh file
 ```
 nano raspberry_IP/newtest2.sh
 ```
+
 modify with your MQTT credentials for m_user and m_pass 
 
 <img src="mqtt/mqtt_sign.png" width="348">
+
 ```
 cp raspberry_IP/newtest2.sh ~/test2.sh
 cp raspberry_IP/stats.py ~/stats.py
