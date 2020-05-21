@@ -1,4 +1,5 @@
-Setup MQTT topic at [maqiatto](https://www.maqiatto.com/) 
+# Setup MQTT topic at [maqiatto](https://www.maqiatto.com/) 
+
 In Broker configuration page, 
 
 <img src="mqtt/setup_topic.png" width="348">
