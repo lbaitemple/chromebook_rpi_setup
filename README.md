@@ -15,7 +15,7 @@ Now, we can go to the raspberry pi remote login terminal and enter the following
 
 ```
 sudo apt-get install python-pip python-pil  i2c-tools git mosquitto-clients -y
-git clone https://github.com/lbaitemple/raspberry_IP/
+git clone https://github.com/lbaitemple/chromebook_rpi_setup
 sudo pip install Adafruit_SSD1306 RPi.GPIO
 ```
 open the newtest2.sh file 
