@@ -20,7 +20,7 @@ sudo pip install Adafruit_SSD1306 RPi.GPIO
 ```
 open the newtest2.sh file 
 ```
-nano raspberry_IP/newtest2.sh
+nano chromebook_rpi_setup/newtest2.sh
 ```
 
 modify with your MQTT credentials for m_user and m_pass 
